@@ -15,7 +15,9 @@ namespace MVCGitHubApp.Controllers
 
         public IActionResult Index()
         {
+            //Some code changes
             return View();
+
         }
 
         public IActionResult Privacy()
